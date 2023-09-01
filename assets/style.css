@@ -136,6 +136,10 @@ body {
 	font-size: 24px;
 }
 
+.nav-item .active-tag {
+	background-color:#BEB45A;
+}
+
 .quote {
 	font-family: 'Spectral';
 	font-style: italic;
@@ -243,6 +247,8 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+
+
 
 @media all and (max-width: 1180px) {
 	.picture {
@@ -353,4 +359,5 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
+
 
